@@ -1,0 +1,6 @@
+Detective as ??? "This is dialogue {c}ffffasssssssssssssssssssssssssssssssssssssssssf 1" [wait]process(), process()
+Partner as test1 "This is  dialogue 2 {a} like this..." print_mp("test" "test2")
+
+Detective as tt at 1:1 "This is  dialogue 3 {wa 1} Is this working? {wc 2} oh this actually works"
+
+Partner [0:angry, 1:happy] "Good idea, let's  see dialogue 4" 

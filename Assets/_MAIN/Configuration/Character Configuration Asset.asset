@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fa90273a8a703548aaeb8fd6b56d5ce, type: 3}
+  m_Name: Character Configuration Asset
+  m_EditorClassIdentifier: 
+  characters:
+  - name: Mako
+    alias: m
+    characterType: 0
+    nameColor: {r: 1, g: 0.3443396, b: 0.3443396, a: 0}
+    dialogueColor: {r: 1, g: 1, b: 1, a: 0}
+    nameFont: {fileID: 11400000, guid: 7ed0a5bd800a4a94c84d65963bceeb7b, type: 2}
+    dialogueFont: {fileID: 11400000, guid: 7ed0a5bd800a4a94c84d65963bceeb7b, type: 2}
+  - name: Nagisa
+    alias: n
+    characterType: 1
+    nameColor: {r: 0.66522783, g: 0.81552356, b: 0.9339623, a: 0}
+    dialogueColor: {r: 1, g: 1, b: 1, a: 0}
+    nameFont: {fileID: 11400000, guid: 7ed0a5bd800a4a94c84d65963bceeb7b, type: 2}
+    dialogueFont: {fileID: 11400000, guid: 7ed0a5bd800a4a94c84d65963bceeb7b, type: 2}
+  - name: Ben
+    alias: b
+    characterType: 1
+    nameColor: {r: 0.76173913, g: 1, b: 0.4575472, a: 0}
+    dialogueColor: {r: 1, g: 1, b: 1, a: 0}
+    nameFont: {fileID: 11400000, guid: 7ed0a5bd800a4a94c84d65963bceeb7b, type: 2}
+    dialogueFont: {fileID: 11400000, guid: 7ed0a5bd800a4a94c84d65963bceeb7b, type: 2}
